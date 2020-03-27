@@ -8,7 +8,7 @@ Please claim a problem by editing this file and pushing to master.
 
 ## Solutions - Students
 
-- Problem 1 =
+- Problem 1 = Philip
 - Problem 2 = Mark
 - Problem 3 = Henry
 - Problem 4 =
