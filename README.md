@@ -11,5 +11,5 @@ Please claim a problem by editing this file and pushing to master.
 - Problem 1 = Philip
 - Problem 2 = Mark
 - Problem 3 = Henry
-- Problem 4 =
+- Problem 4 = Tolu
 - Problem 5 = Jun Hao
