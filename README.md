@@ -12,4 +12,4 @@ Please claim a problem by editing this file and pushing to master.
 - Problem 2 = Mark
 - Problem 3 = Henry
 - Problem 4 =
-- Problem 5 =
+- Problem 5 = Jun Hao
